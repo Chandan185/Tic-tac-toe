@@ -50,3 +50,8 @@ h1 {
   font-size: 56px;
   color: rgba(253, 166, 5, 0.788);
 }
+p {
+  text-align: center;
+  color: rgba(253, 166, 5, 0.788);
+  margin-top: 100px;
+}
